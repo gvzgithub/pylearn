@@ -1,24 +1,26 @@
 [中文简体版](https://github.com/gvzgithub/u0e51-Operations-Calculater/blob/main/README-zh-cn.md)
 
+My entire Python project will be stored in this repository. Here is a description of a calculator project I developed.
+
+----------
+
 Operation๑ is an operation defined by me.
 
 
 The number pair (x,y) can be obtained by operation๑ as number pair (x',y'), written as ๑(/u0e51 in unicode) (x,y)=(x',y'), where x'=ax+by, y'=ax-by, (a,b are constants)
 
 
-You can submit suggestions in issues
+You can submit suggestions in issues，this project has gone into a slow-maintenance phase now.
 
 Note: Due to a mistake on my part, the source packaged files downloaded in realeases are out of sync. Please download the calculator and use the Edit Source function to solve it (from v1.0.6 version has been noted)
 
-Since I've been diving into C++ lately, this project has gone into a slow-maintenance phase:(
-
--------------
 Update Log
 
 Future updates are planned:
 More language support;
 Graphical pages;
 ......
+(Well, it looks like there probably won't be one now)
 
 v1.0.6 (UTC+8 2024/04/30 21:42) Turning .py files into .exe files
 
